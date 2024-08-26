@@ -19,3 +19,6 @@ screenshot:
 5.![confirmation page](<Screenshot (49).png>)
 6.![my booking](<Screenshot (50).png>)
 7.![admin page](<Screenshot (51).png>)
+
+
+thanks for watching this website
