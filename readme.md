@@ -7,7 +7,7 @@ Front-end: Reactjs
 Back-end: Nodejs
 Database: MongoDB
 
-Front-end Deployed URL:(cick here)[https://zoomcarboss.netlify.app/]
+Front-end Deployed URL:(cick here)[https://autoshare1.netlify.app]
 back-end Deployed URL:(clicks here)[https://zoomcarcloner-143.onrender.com]
 project github source code :(clicks here)[https://github.com/Deepakkumardk99/zoomcarcloner-1.git]
 
